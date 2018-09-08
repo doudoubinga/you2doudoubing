@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c');
-define('GJ_CODE', 'JP');
-define('SITE_NAME', '大爷常来玩儿啊');
-define('TITLENAME', 'DouDouTube');
-define('EN2DEKEY', 'lujianbupingyishenghou');
-define('EMAIL', 'xiaofufua@protonmail.com');
+define('APIKEY', 'AIzaSyC-XyEO08jofPYbbwj3SxRCQk62B8N8xWA');
+define('GJ_CODE', 'HK');
+define('SITE_NAME', 'somesay1998Tube');
+define('TITLENAME', 'somesay1998Tube');
+define('EN2DEKEY', 'somesay1998');
+define('EMAIL', 'somesay1998@gmail.com');
 ?>
