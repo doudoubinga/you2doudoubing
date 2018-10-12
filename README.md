@@ -18,6 +18,9 @@ AIzaSyAurg5k-lp9qQxA_IpC5x48YZ3-cslEQ5Q
 ```
 想要使用自己的youtube api可以在参考这里：https://you2php.github.io/doc/#getapi
 
+创建和查看自己的API网址：https://console.developers.google.com/
+
+修改web/.htpasswd，为网站加锁 https://you2php.github.io/doc/#credit
 
 **htpasswd网页锁** 账号密码在线生成：http://www.htaccesstools.com/htpasswd-generator/   
 
